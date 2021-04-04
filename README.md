@@ -2,7 +2,7 @@
 
 I'm Dimitri ONGOUA, teacher and IT Support Specialist.
 
-I'm a GDG co-organizer and I help people to get start their carrer as web developper.
+I'm [GDG Libreville](https://gdg.community.dev/gdg-libreville) co-organizer and I help people to get start their carreer as web developper.
 
 Reach me on Twitter : [Dimitri ONGOUA](https://twitter.com/DimitriOngoua)
 
